@@ -1,0 +1,48 @@
+core   0: 0x0000100c (0x0182a283) lw      x5, 24(x5)
+core   0: 0x0000100c prv=3 v=0  x5  0x70000000 mem 0x00001018
+core   0: 0x70000018 (0x00052503) lw      x10, 0(x10)
+core   0: 0x70000018 prv=3 v=0  x10 0x70000204 mem 0x70000008
+core   0: 0x700000a0 (0x10452503) lw      x10, 260(x10)
+core   0: 0x700000a0 prv=3 v=0  x10 0x70000600 mem 0x700211a0
+core   0: 0x70000458 (0x0005a583) lw      x11, 0(x11)
+core   0: 0x70000458 prv=3 v=0  x11 0x40005040 mem 0x70000448
+core   0: 0x7000045c (0x0005a583) lw      x11, 0(x11)
+core   0: 0x7000045c prv=3 v=0  x11 0x00000002 mem 0x40005040
+core   0: 0x70014340 (0x00044583) lbu     x11, 0(x8)
+core   0: 0x70014340 prv=3 v=0  x11 0x00000054 mem 0x700158bc
+core   0: 0x4460061a (0xd84e5f83) lhu     x31, -636(x28)
+core   0: 0x4460061a prv=3 v=0  x31 0x00000000 mem 0x72a00584
+core   0: 0x446006c8 (0x71040283) lb      x5, 1808(x8)
+core   0: 0x446006c8 prv=3 v=0  x5  0x00000038 mem 0x461f6410
+core   0: 0x446007c8 (0x2fee5f03) lhu     x30, 766(x28)
+core   0: 0x446007c8 prv=3 v=0  x30 0x00000000 mem 0x72a00afe
+core   0: 0x446007cc (0x33cd1703) lh      x14, 828(x26)
+core   0: 0x446007cc prv=3 v=0  x14 0x00000000 mem 0x30600934
+core   0: 0x44600806 (0x29a7dc03) lhu     x24, 666(x15)
+core   0: 0x44600806 prv=3 v=0  x24 0x000083de mem 0x463f6a5a
+core   0: 0x4460091c (0x0c085303) lhu     x6, 192(x16)
+core   0: 0x4460091c prv=3 v=0  x6  0x00000000 mem 0x72d30d80
+core   0: 0x44600acc (0xa88a4583) lbu     x11, -1400(x20)
+core   0: 0x44600acc prv=3 v=0  x11 0x0000004b mem 0x45f93470
+core   0: 0x44600da0 (0x00044503) lbu     x10, 0(x8)
+core   0: 0x44600da0 prv=3 v=0  x10 0x00000000 mem 0x461f5d00
+core   0: 0x44600dbc (0xf40d8683) lb      x13, -192(x27)
+core   0: 0x44600dbc prv=3 v=0  x13 0x00000000 mem 0x5007d340
+core   0: 0x44600e18 (0x00098f83) lb      x31, 0(x19)
+core   0: 0x44600e18 prv=3 v=0  x31 0xffffffe4 mem 0x788100e8
+core   0: 0x44600d68 (0x930e1f83) lh      x31, -1744(x28)
+core   0: 0x44600d68 prv=3 v=0  x31 0x00000000 mem 0x72a00130
+core   0: 0x44600c44 (0x0ecd1683) lh      x13, 236(x26)
+core   0: 0x44600c44 prv=3 v=0  x13 0x00000000 mem 0x306006e4
+core   0: 0x44600be2 (0x930e1f83) lh      x31, -1744(x28)
+core   0: 0x44600be2 prv=3 v=0  x31 0x00000000 mem 0x72a00130
+core   0: 0x44600b70 (0x3797a623) sw      x25, 876(x15)
+core   0: 0x44600b70 prv=3 v=0  mem 0x463f6b2c 0x00005acf
+core   0: 0x44600ba2 (0xf5f7aa23) sw      x31, -172(x15)
+core   0: 0x44600ba2 prv=3 v=0  mem 0x463f6714 0xffffc87f
+core   0: 0x44600d6c (0xf65a1823) sh      x5, -144(x20)
+core   0: 0x44600d6c prv=3 v=0  mem 0x45f93210 0x0000
+core   0: 0x44600dfe (0x01979023) sh      x25, 0(x15)
+core   0: 0x44600dfe prv=3 v=0  mem 0x463f67c0 0x51e8
+
+

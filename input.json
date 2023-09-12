@@ -1,0 +1,112 @@
+[	{
+	
+		"instrn"   : "add",
+		"dest_reg" : "x2",
+		"src_reg1" : "x0",
+		"src_reg2" : "x1"
+	},
+	{
+		"instrn"   : "sub",
+		"dest_reg" : "x5",
+		"src_reg1" : "x3",
+		"src_reg2" : "x4"
+	},
+	{       "instrn"   : "and",
+		"dest_reg" : "x8",
+		"src_reg1" : "x6",
+		"src_reg2" : "x7"
+        },
+	{
+		"instrn"   : "or",
+		"dest_reg" : "x11",
+		"src_reg1" : "x9",
+		"src_reg2" : "x10"
+	},
+	{ 
+		"instrn"   : "slt",
+		"dest_reg" : "x14",
+		"src_reg1" : "x12",
+		"src_reg2" : "x13"
+	},
+	{
+		"instrn"   : "addi",
+		"dest_reg" : "x16",
+		"src_reg1" : "x15",
+		"imm"      : 10
+        },
+	{
+	        "instrn"   : "slti",
+		"dest_reg" : "x18",
+		"src_reg1" : "x17",
+		"imm"      : 5
+	},
+	{
+	        "instrn"   : "sltiu",
+		"dest_reg" : "x20",
+		"src_reg1" : "x19",
+		"imm"      : 7
+	},
+	{
+	        "instrn"   : "xori",
+		"dest_reg" : "x22",
+		"src_reg1" : "x21",
+		"imm"      : 4
+	},
+	{
+	        "instrn"   : "ori",
+		"dest_reg" : "x23",
+		"src_reg1" : "x24",
+		"imm"      : 10
+        },
+	{
+	        "instrn"   : "andi",
+		"dest_reg" : "x26",
+		"src_reg1" : "x25",
+		"imm"      : 3
+	},
+	{
+		"instrn"   : "sltu",
+		"dest_reg" : "x29",
+		"src_reg1" : "x27",
+		"src_reg2" : "x28"
+        },	
+	{
+		"instrn"   : "slli",
+		"dest_reg" : "x31",
+		"src_reg1" : "x30",
+		"imm"      :  5
+        },
+	{
+		"instrn"   : "srli",
+		"dest_reg" : "x32",
+		"src_reg1" : "x31",
+		"imm"      :  8
+        },	
+	{
+	        "instrn"   : "srai",
+		"dest_reg" : "x34",
+		"src_reg1" : "x33",
+		"imm"      :  7
+	},
+	{
+		"instrn"   : "sll",
+		"dest_reg" : "x37",
+		"src_reg1" : "x35",
+		"src_reg2" : "x36"
+        },	
+	{
+		"instrn"   : "srl",
+		"dest_reg" : "x40",
+		"src_reg1" : "x38",
+		"src_reg2" : "x39"
+        },
+	{
+		"instrn"   : "sra",
+		"dest_reg" : "x43",
+		"src_reg1" : "x41",
+		"src_reg2" : "x42"
+        }	
+
+
+]
+

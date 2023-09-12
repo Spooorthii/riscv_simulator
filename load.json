@@ -1,0 +1,26 @@
+
+[
+	{
+		"instrn":"load",
+		"imm"   :5,
+		"target_reg":"x1"
+	}'
+	{
+		"instrn":"load",
+		"imm"   :10,
+		"target_reg":"x2"
+	}'
+
+	{
+		"instrn":"load",
+		"imm"   :0,
+		"target_reg":"x3"
+	}'
+
+	{
+		"instrn":"load",
+		"imm"   :7,
+		"target_reg":"x4"
+	}
+]
+

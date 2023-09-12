@@ -1,0 +1,481 @@
+core   0: 0x00007ffee1e020dc (0xd0268693) addi    x13, x13, -766  
+core   0: 0x00007ffee1e020dc prv=3 v=0  x13 0xfffffffffffffd02   
+core   0: 0x00007ffee1e02048 (0x0013f2b3) and     x5, x7, x1      
+core   0: 0x00007ffee1e02048 prv=3 v=0  x5  0x0000000000000000    
+core   0: 0x00007ffee1e0204e (0xb473a293) slti    x5, x7, -1209   
+core   0: 0x00007ffee1e0204e prv=3 v=0  x5  0x0000000000000000    
+core   0: 0x00007ffee1e02052 (0x71254293) xori    x5, x10, 1810   
+core   0: 0x00007ffee1e02052 prv=3 v=0  x5  0x0000000000000712    
+core   0: 0x00007ffee1e0205a (0xe85c4c93) xori    x25, x24, -379  
+core   0: 0x00007ffee1e0205a prv=3 v=0  x25 0xf6d814edfffffe85    
+core   0: 0x00007ffee1e02066 (0x0016d6b3) srl     x13, x13, x1    
+core   0: 0x00007ffee1e02066 prv=3 v=0  x13 0x0000000000000049    
+core   0: 0x00007ffee1e0206e (0x00dc4cb3) xor     x25, x24, x13   
+core   0: 0x00007ffee1e0206e prv=3 v=0  x25 0x0927eb1200000000    
+core   0: 0x00007ffee1e02076 (0x001f4cb3) xor     x25, x30, x1    
+core   0: 0x00007ffee1e02076 prv=3 v=0  x25 0x00000000c0b102cc    
+core   0: 0x00007ffee1e0207e (0x00c582b3) add     x5, x11, x12    
+core   0: 0x00007ffee1e0207e prv=3 v=0  x5  0x0000000000000020    
+core   0: 0x00007ffee1e02082 (0x00b633b3) sltu    x7, x12, x11    
+core   0: 0x00007ffee1e02082 prv=3 v=0  x7  0x0000000000000001    
+core   0: 0x00007ffee1e02086 (0x00c2d333) srl     x6, x5, x12     
+core   0: 0x00007ffee1e02086 prv=3 v=0  x6  0x0000000000000000     
+core   0: 0x00007ffee1e0208a (0x00d71c13) slli    x24, x14, 13     
+core   0: 0x00007ffee1e0208a prv=3 v=0  x24 0x0000000000024000     
+core   0: 0x00007ffee1e0208e (0x38fcbc13) sltiu   x24, x25, 911    
+core   0: 0x00007ffee1e0208e prv=3 v=0  x24 0x0000000000000000    
+core   0: 0x00007ffee1e0209a (0x00d73f33) sltu    x30, x14, x13   
+core   0: 0x00007ffee1e0209a prv=3 v=0  x30 0x0000000000000001    
+core   0: 0x00007ffee1e020a0 (0x40555333) sra     x6, x10, x5     
+core   0: 0x00007ffee1e020a0 prv=3 v=0  x6  0x0000000000000000    
+core   0: 0x00007ffee1e020a6 (0x00135313) srli    x6, x6, 1       
+core   0: 0x00007ffee1e020a6 prv=3 v=0  x6  0x0000000000000000    
+core   0: 0x00007ffee1e020aa (0x0196afb3) slt     x31, x13, x25  
+core   0: 0x00007ffee1e020aa prv=3 v=0  x31 0x0000000000000001   
+core   0: 0x00007ffee1e020b2 (0x0065a3b3) slt     x7, x11, x6     
+core   0: 0x00007ffee1e020b2 prv=3 v=0  x7  0x0000000000000000  
+core   0: 0x00007ffee1e020ba (0xf3efcc93) xori    x25, x31, -194  
+core   0: 0x00007ffee1e020ba prv=3 v=0  x25 0xffffffffffffff3f   
+core   0: 0x00007ffee1e020c2 (0x00b55333) srl     x6, x10, x11   
+core   0: 0x00007ffee1e020c2 prv=3 v=0  x6  0x0000000000000000    
+core   0: 0x00007ffee1e020c8 (0x0052f2b3) and     x5, x5, x5     
+core   0: 0x00007ffee1e020c8 prv=3 v=0  x5  0x0000000000000020  
+core   0: 0x00007ffee1e020cc (0x42dfdc93) srai    x25, x31, 45   
+core   0: 0x00007ffee1e020cc prv=3 v=0  x25 0x0000000000000000   
+core   0: 0x00007ffee1e020d4 (0x019f76b3) and     x13, x30, x25  
+core   0: 0x00007ffee1e020d4 prv=3 v=0  x13 0x0000000000000000   
+core   0: 0x00007ffee1e020e0 (0x001cc6b3) xor     x13, x25, x1  
+core   0: 0x00007ffee1e020e0 prv=3 v=0  x13 0x00000000c0250094  
+core   0: 0x00007ffee1e020ea (0x0335d313) srli    x6, x11, 51  
+core   0: 0x00007ffee1e020ea prv=3 v=0  x6  0x0000000000000000  
+core   0: 0x00007ffee1e020f6 (0x019f4f33) xor     x30, x30, x25  
+core   0: 0x00007ffee1e020f6 prv=3 v=0  x30 0x0000000000000001   
+core   0: 0x00007ffee1e02102 (0x40c555b3) sra     x11, x10, x12  
+core   0: 0x00007ffee1e02102 prv=3 v=0  x11 0x0000000000000000   
+core   0: 0x00007ffee1e02106 (0x0075a2b3) slt     x5, x11, x7     
+core   0: 0x00007ffee1e02106 prv=3 v=0  x5  0x0000000000000000     
+core   0: 0x00007ffee1e0210e (0x018ff6b3) and     x13, x31, x24  
+core   0: 0x00007ffee1e0210e prv=3 v=0  x13 0x0000000000000000   
+core   0: 0x00007ffee1e02112 (0x8a22c393) xori    x7, x5, -1886  
+core   0: 0x00007ffee1e02112 prv=3 v=0  x7  0xfffffffffffff8a2   
+core   0: 0x00007ffee1e02116 (0x571ca713) slti    x14, x25, 1393  
+core   0: 0x00007ffee1e02116 prv=3 v=0  x14 0x0000000000000001     
+core   0: 0x00007ffee1e02122 (0x0ec70f93) addi    x31, x14, 236  
+core   0: 0x00007ffee1e02122 prv=3 v=0  x31 0x00000000000000ed  
+core   0: 0x00007ffee1e0212a (0x0070e3b3) or      x7, x1, x7    
+core   0: 0x00007ffee1e0212a prv=3 v=0  x7  0xfffffffffffff8b6  
+core   0: 0x00007ffee1e0212e (0x6430c713) xori    x14, x1, 1603  
+core   0: 0x00007ffee1e0212e prv=3 v=0  x14 0x00000000c02506d7  
+core   0: 0x00007ffee1e02132 (0x01e0ff33) and     x30, x1, x30  
+core   0: 0x00007ffee1e02132 prv=3 v=0  x30 0x0000000000000000  
+core   0: 0x00007ffee1e02136 (0x01872f33) slt     x30, x14, x24  
+core   0: 0x00007ffee1e02136 prv=3 v=0  x30 0x0000000000000000   
+core   0: 0x00007ffee1e0213c (0xa143e313) ori     x6, x7, -1516  
+core   0: 0x00007ffee1e0213c prv=3 v=0  x6  0xfffffffffffffab6   
+core   0: 0x00007ffee1e02144 (0x010c5f13) srli    x30, x24, 16   
+core   0: 0x00007ffee1e02144 prv=3 v=0  x30 0x0000000000000000  
+core   0: 0x00007ffee1e0214e (0x43633513) sltiu   x10, x6, 1078  
+core   0: 0x00007ffee1e0214e prv=3 v=0  x10 0x0000000000000000   
+core   0: 0x00007ffee1e02158 (0x0052a333) slt     x6, x5, x5     
+core   0: 0x00007ffee1e02158 prv=3 v=0  x6  0x0000000000000000   
+core   0: 0x00007ffee1e02162 (0x00532333) slt     x6, x6, x5       
+core   0: 0x00007ffee1e02162 prv=3 v=0  x6  0x0000000000000001     
+core   0: 0x00007ffee1e0216a (0x001623b3) slt     x7, x12, x1      
+core   0: 0x00007ffee1e0216a prv=3 v=0  x7  0x0000000000000001     
+core   0: 0x00007ffee1e02170 (0xd24fef13) ori     x30, x31, -732   
+core   0: 0x00007ffee1e02170 prv=3 v=0  x30 0xfffffffffffffd24     
+core   0: 0x00007ffee1e02174 (0x419fdf33) sra     x30, x31, x25    
+core   0: 0x00007ffee1e02174 prv=3 v=0  x30 0x0000000000000000    
+core   0: 0x00007ffee1e02180 (0x41f08733) sub     x14, x1, x31   
+core   0: 0x00007ffee1e02180 prv=3 v=0  x14 0x00000000c0250094   
+core   0: 0x00007ffee1e02184 (0x0053f633) and     x12, x7, x5    
+core   0: 0x00007ffee1e02184 prv=3 v=0  x12 0x0000000000000000    
+core   0: 0x00007ffee1e02188 (0x01df9713) slli    x14, x31, 29    
+core   0: 0x00007ffee1e02188 prv=3 v=0  x14 0x0000000000000000    
+core   0: 0x00007ffee1e0218c (0x00a3f333) and     x6, x7, x10      
+core   0: 0x00007ffee1e0218c prv=3 v=0  x6  0x0000000000000000    
+core   0: 0x00007ffee1e0219a (0x01ef6cb3) or      x25, x30, x30   
+core   0: 0x00007ffee1e0219a prv=3 v=0  x25 0x0000000000000000    
+core   0: 0x00007ffee1e021a4 (0x00d68cb3) add     x25, x13, x13   
+core   0: 0x00007ffee1e021a4 prv=3 v=0  x25 0x0000000000000000    
+core   0: 0x00007ffee1e021ac (0x01977fb3) and     x31, x14, x25   
+core   0: 0x00007ffee1e021ac prv=3 v=0  x31 0x0000000000000000    
+core   0: 0x00007ffee1e021b4 (0x4075d333) sra     x6, x11, x7    
+core   0: 0x00007ffee1e021b4 prv=3 v=0  x6  0x0000000000000000   
+core   0: 0x00007ffee1e021b8 (0x00ef0733) add     x14, x30, x14   
+core   0: 0x00007ffee1e021b8 prv=3 v=0  x14 0x0000000000000000    
+core   0: 0x00007ffee1e021c0 (0x46ffef93) ori     x31, x31, 1135   
+core   0: 0x00007ffee1e021c0 prv=3 v=0  x31 0x000000000000046f    
+core   0: 0x00007ffee1e021c4 (0x12830293) addi    x5, x6, 296   
+core   0: 0x00007ffee1e021c4 prv=3 v=0  x5  0x0000000000000128  
+core   0: 0x00007ffee1e021d0 (0x00166533) or      x10, x12, x1   
+core   0: 0x00007ffee1e021d0 prv=3 v=0  x10 0x00000000c0250094   
+core   0: 0x00007ffee1e021d6 (0xe8d0e713) ori     x14, x1, -371  
+core   0: 0x00007ffee1e021d6 prv=3 v=0  x14 0xfffffffffffffe9d   
+core   0: 0x00007ffee1e021da (0x00b28333) add     x6, x5, x11
+core   0: 0x00007ffee1e021da prv=3 v=0  x6  0x0000000000000128
+core   0: 0x00007ffee1e021e6 (0x0073c633) xor     x12, x7, x7
+core   0: 0x00007ffee1e021e6 prv=3 v=0  x12 0x0000000000000000
+core   0: 0x00007ffee1e021ea (0x558f3c93) sltiu   x25, x30, 1368
+core   0: 0x00007ffee1e021ea prv=3 v=0  x25 0x0000000000000001
+core   0: 0x00007ffee1e021f2 (0x00d71f33) sll     x30, x14, x13
+core   0: 0x00007ffee1e021f2 prv=3 v=0  x30 0xfffffffffffffe9d
+core   0: 0x00007ffee1e021f6 (0x01efbc33) sltu    x24, x31, x30
+core   0: 0x00007ffee1e021f6 prv=3 v=0  x24 0x0000000000000001
+core   0: 0x00007ffee1e021fc (0x40508333) sub     x6, x1, x5      
+core   0: 0x00007ffee1e021fc prv=3 v=0  x6  0x00000000c0250094
+core   0: 0x00007ffee1e02206 (0xe4652513) slti    x10, x10, -442   
+core   0: 0x00007ffee1e02206 prv=3 v=0  x10 0x0000000000000000     
+core   0: 0x00007ffee1e02214 (0x5c1ce713) ori     x14, x25, 1473   
+core   0: 0x00007ffee1e02214 prv=3 v=0  x14 0x00000000000005c1     
+core   0: 0x00007ffee1e02220 (0x00a625b3) slt     x11, x12, x10     
+core   0: 0x00007ffee1e02220 prv=3 v=0  x11 0x0000000000000000       
+core   0: 0x00007ffee1e02224 (0x41f6dc33) sra     x24, x13, x31    
+core   0: 0x00007ffee1e02224 prv=3 v=0  x24 0x0000000000000000     
+core   0: 0x00007ffee1e0222e (0x02171c93) slli    x25, x14, 33     
+core   0: 0x00007ffee1e0222e prv=3 v=0  x25 0xc0413df800000000     
+core   0: 0x00007ffee1e02232 (0x84a52513) slti    x10, x10, -1974  
+core   0: 0x00007ffee1e02232 prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e0223c (0x752c0c93) addi    x25, x24, 1874   
+core   0: 0x00007ffee1e0223c prv=3 v=0  x25 0x0000000000000752     
+core   0: 0x00007ffee1e02244 (0x40ef5fb3) sra     x31, x30, x14      
+core   0: 0x00007ffee1e02244 prv=3 v=0  x31 0xffffffffffffffff      
+core   0: 0x00007ffee1e02254 (0x9be0a713) slti    x14, x1, -1602    
+core   0: 0x00007ffee1e02254 prv=3 v=0  x14 0x0000000000000000      
+core   0: 0x00007ffee1e02260 (0x8b33b393) sltiu   x7, x7, -1869    
+core   0: 0x00007ffee1e02260 prv=3 v=0  x7  0x0000000000000001     
+core   0: 0x00007ffee1e02266 (0xa330b393) sltiu   x7, x1, -1485    
+core   0: 0x00007ffee1e02266 prv=3 v=0  x7  0x0000000000000001      
+core   0: 0x00007ffee1e0226e (0xd3050293) addi    x5, x10, -720    
+core   0: 0x00007ffee1e0226e prv=3 v=0  x5  0xfffffffffffffd30     
+core   0: 0x00007ffee1e02276 (0x0063e2b3) or      x5, x7, x6      
+core   0: 0x00007ffee1e02276 prv=3 v=0  x5  0xfffffffffffffc03     
+core   0: 0x00007ffee1e0227a (0xb673a293) slti    x5, x7, -1177    
+core   0: 0x00007ffee1e0227a prv=3 v=0  x5  0x0000000000000000     
+core   0: 0x00007ffee1e02282 (0x02531313) slli    x6, x6, 37        
+core   0: 0x00007ffee1e02282 prv=3 v=0  x6  0xffff804000000000      
+core   0: 0x00007ffee1e02286 (0x019cbfb3) sltu    x31, x25, x25     
+core   0: 0x00007ffee1e02286 prv=3 v=0  x31 0x0000000000000000     
+core   0: 0x00007ffee1e0228c (0x0130df93) srli    x31, x1, 19     
+core   0: 0x00007ffee1e0228c prv=3 v=0  x31 0x0000000000001804     
+core   0: 0x00007ffee1e02290 (0x406fdc93) srai    x25, x31, 6     
+core   0: 0x00007ffee1e02290 prv=3 v=0  x25 0x0000000000000060    
+core   0: 0x00007ffee1e0229a (0x41ec5c33) sra     x24, x24, x30    
+core   0: 0x00007ffee1e0229a prv=3 v=0  x24 0x0000000000000000     
+core   0: 0x00007ffee1e0229e (0x40c58633) sub     x12, x11, x12    
+core   0: 0x00007ffee1e0229e prv=3 v=0  x12 0xe000000007fb5fee     
+core   0: 0x00007ffee1e022a2 (0x01f70cb3) add     x25, x14, x31    
+core   0: 0x00007ffee1e022a2 prv=3 v=0  x25 0x0000000000001804     
+core   0: 0x00007ffee1e022a6 (0x00e09733) sll     x14, x1, x14      
+core   0: 0x00007ffee1e022a6 prv=3 v=0  x14 0x00000000c0250094     
+core   0: 0x00007ffee1e022aa (0x9edf4693) xori    x13, x30, -1555   
+core   0: 0x00007ffee1e022aa prv=3 v=0  x13 0x0000000000000770     
+core   0: 0x00007ffee1e022b2 (0x00c6c693) xori    x13, x13, 12    
+core   0: 0x00007ffee1e022b2 prv=3 v=0  x13 0x000000000000077c    
+core   0: 0x00007ffee1e022b6 (0x4330df93) srai    x31, x1, 51    
+core   0: 0x00007ffee1e022b6 prv=3 v=0  x31 0x0000000000000000    
+core   0: 0x00007ffee1e022ba (0x460fff93) andi    x31, x31, 1120   
+core   0: 0x00007ffee1e022ba prv=3 v=0  x31 0x0000000000000000     
+core   0: 0x00007ffee1e022c0 (0x0196cf33) xor     x30, x13, x25   
+core   0: 0x00007ffee1e022c0 prv=3 v=0  x30 0xffffffff3fdb1eec    
+core   0: 0x00007ffee1e022c4 (0x038f1f13) slli    x30, x30, 56    
+core   0: 0x00007ffee1e022c4 prv=3 v=0  x30 0xec00000000000000    
+core   0: 0x00007ffee1e022cc (0x00657633) and     x12, x10, x6    
+core   0: 0x00007ffee1e022cc prv=3 v=0  x12 0x0000000000000000    
+core   0: 0x00007ffee1e022d0 (0x000fdf93) srli    x31, x31, 0     
+core   0: 0x00007ffee1e022d0 prv=3 v=0  x31 0x0000000000000000    
+core   0: 0x00007ffee1e022dc (0x01efbc33) sltu    x24, x31, x30   
+core   0: 0x00007ffee1e022dc prv=3 v=0  x24 0x0000000000000001    
+core   0: 0x00007ffee1e022e6 (0x418fdf33) sra     x30, x31, x24   
+core   0: 0x00007ffee1e022e6 prv=3 v=0  x30 0x0000000000000000    
+core   0: 0x00007ffee1e022ea (0x40b505b3) sub     x11, x10, x11   
+core   0: 0x00007ffee1e022ea prv=3 v=0  x11 0x0000000000000000     
+core   0: 0x00007ffee1e022f0 (0x4195d613) srai    x12, x11, 25    
+core   0: 0x00007ffee1e022f0 prv=3 v=0  x12 0x0000000000000000    
+core   0: 0x00007ffee1e022f4 (0xc423c313) xori    x6, x7, -958    
+core   0: 0x00007ffee1e022f4 prv=3 v=0  x6  0xfffffffffffffc42    
+core   0: 0x00007ffee1e022fc (0x00d65313) srli    x6, x12, 13     
+core   0: 0x00007ffee1e022fc prv=3 v=0  x6  0x0000000000000000    
+core   0: 0x00007ffee1e02300 (0x035fdc93) srli    x25, x31, 53    
+core   0: 0x00007ffee1e02300 prv=3 v=0  x25 0x0000000000000000    
+core   0: 0x00007ffee1e02308 (0x41868733) sub     x14, x13, x24   
+core   0: 0x00007ffee1e02308 prv=3 v=0  x14 0x00007ffe2000001f    
+core   0: 0x00007ffee1e0230e (0x01e3d613) srli    x12, x7, 30    
+core   0: 0x00007ffee1e0230e prv=3 v=0  x12 0x0000000000000000   
+core   0: 0x00007ffee1e02312 (0x01efff33) and     x30, x31, x30   
+core   0: 0x00007ffee1e02312 prv=3 v=0  x30 0x0000000000000000    
+core   0: 0x00007ffee1e02328 (0xff5f3693) sltiu   x13, x30, -11    
+core   0: 0x00007ffee1e02328 prv=3 v=0  x13 0x0000000000000001     
+core   0: 0x00007ffee1e0232c (0x019c3cb3) sltu    x25, x24, x25    
+core   0: 0x00007ffee1e0232c prv=3 v=0  x25 0x0000000000000000     
+core   0: 0x00007ffee1e02332 (0x8166f693) andi    x13, x13, -2026   
+core   0: 0x00007ffee1e02332 prv=3 v=0  x13 0x0000000000000000      
+core   0: 0x00007ffee1e0233a (0x01ef8733) add     x14, x31, x30     
+core   0: 0x00007ffee1e0233a prv=3 v=0  x14 0x0000000000000000       
+core   0: 0x00007ffee1e0233e (0x00c662b3) or      x5, x12, x12       
+core   0: 0x00007ffee1e0233e prv=3 v=0  x5  0x0000000000000000      
+core   0: 0x00007ffee1e02342 (0x018cdc13) srli    x24, x25, 24      
+core   0: 0x00007ffee1e02342 prv=3 v=0  x24 0x0000000000000000       
+core   0: 0x00007ffee1e02348 (0x4bc6c693) xori    x13, x13, 1212     
+core   0: 0x00007ffee1e02348 prv=3 v=0  x13 0x00000000000004bc        
+core   0: 0x00007ffee1e02350 (0x01ec2f33) slt     x30, x24, x30     
+core   0: 0x00007ffee1e02350 prv=3 v=0  x30 0x0000000000000000      
+core   0: 0x00007ffee1e02354 (0x0190bfb3) sltu    x31, x1, x25     
+core   0: 0x00007ffee1e02354 prv=3 v=0  x31 0x0000000000000000     
+core   0: 0x00007ffee1e0235a (0x01e6cf33) xor     x30, x13, x30      
+core   0: 0x00007ffee1e0235a prv=3 v=0  x30 0x00000000000004bc      
+core   0: 0x00007ffee1e02360 (0x018fa733) slt     x14, x31, x24     
+core   0: 0x00007ffee1e02360 prv=3 v=0  x14 0x0000000000000000       
+core   0: 0x00007ffee1e02366 (0x0215f593) andi    x11, x11, 33      
+core   0: 0x00007ffee1e02366 prv=3 v=0  x11 0x0000000000000000      
+core   0: 0x00007ffee1e0237e (0x006613b3) sll     x7, x12, x6       
+core   0: 0x00007ffee1e0237e prv=3 v=0  x7  0x0000000000000000       
+core   0: 0x00007ffee1e0238a (0x25268f93) addi    x31, x13, 594     
+core   0: 0x00007ffee1e0238a prv=3 v=0  x31 0x000000000000070e      
+core   0: 0x00007ffee1e02390 (0xc520ec93) ori     x25, x1, -942     
+core   0: 0x00007ffee1e02390 prv=3 v=0  x25 0xfffffffffffffcd6      
+core   0: 0x00007ffee1e0239a (0x00e6b6b3) sltu    x13, x13, x14     
+core   0: 0x00007ffee1e0239a prv=3 v=0  x13 0x0000000000000001      
+core   0: 0x00007ffee1e0239e (0x40c28533) sub     x10, x5, x12      
+core   0: 0x00007ffee1e0239e prv=3 v=0  x10 0x0000000000000000      
+core   0: 0x00007ffee1e023a2 (0x00c35533) srl     x10, x6, x12       
+core   0: 0x00007ffee1e023a2 prv=3 v=0  x10 0x0000000000000000       
+core   0: 0x00007ffee1e023a6 (0x0186dc33) srl     x24, x13, x24    
+core   0: 0x00007ffee1e023a6 prv=3 v=0  x24 0x0000000000000001      
+core   0: 0x00007ffee1e023b2 (0x89f30393) addi    x7, x6, -1889     
+core   0: 0x00007ffee1e023b2 prv=3 v=0  x7  0xfffffffffffff89f      
+core   0: 0x00007ffee1e023c0 (0xcf0cf693) andi    x13, x25, -784    
+core   0: 0x00007ffee1e023c0 prv=3 v=0  x13 0xfffffffffffffcd0      
+core   0: 0x00007ffee1e023c4 (0xe5252593) slti    x11, x10, -430    
+core   0: 0x00007ffee1e023c4 prv=3 v=0  x11 0x0000000000000000      
+core   0: 0x00007ffee1e023ca (0x006572b3) and     x5, x10, x6        
+core   0: 0x00007ffee1e023ca prv=3 v=0  x5  0x0000000000000000       
+core   0: 0x00007ffee1e023d2 (0x0e0f7c93) andi    x25, x30, 224     
+core   0: 0x00007ffee1e023d2 prv=3 v=0  x25 0x00000000000000a0      
+core   0: 0x00007ffee1e023da (0x00c2b633) sltu    x12, x5, x12     
+core   0: 0x00007ffee1e023da prv=3 v=0  x12 0x0000000000000000      
+core   0: 0x00007ffee1e023de (0x023f1c93) slli    x25, x30, 35     
+core   0: 0x00007ffee1e023de prv=3 v=0  x25 0x000025e000000000     
+core   0: 0x00007ffee1e023e6 (0x001643b3) xor     x7, x12, x1         
+core   0: 0x00007ffee1e023e6 prv=3 v=0  x7  0x00000000c0250094       
+core   0: 0x00007ffee1e023ea (0x00762533) slt     x10, x12, x7     
+core   0: 0x00007ffee1e023ea prv=3 v=0  x10 0x0000000000000001     
+core   0: 0x00007ffee1e023f2 (0x01ec16b3) sll     x13, x24, x30      
+core   0: 0x00007ffee1e023f2 prv=3 v=0  x13 0x1000000000000000        
+core   0: 0x00007ffee1e023fc (0x005332b3) sltu    x5, x6, x5         
+core   0: 0x00007ffee1e023fc prv=3 v=0  x5  0x0000000000000000         
+core   0: 0x00007ffee1e02400 (0x00d69c33) sll     x24, x13, x13      
+core   0: 0x00007ffee1e02400 prv=3 v=0  x24 0x1000000000000000      
+core   0: 0x00007ffee1e02404 (0xff810113) addi    x2, x2, -8         
+core   0: 0x00007ffee1e02404 prv=3 v=0  x2  0x00007ffee0209e40
+core   0: 0x00007ffee1e0205e (0x0190dfbb) srlw    x31, x1, x25
+core   0: 0x00007ffee1e0205e prv=3 v=0  x31 0x0000000006012804
+core   0: 0x00007ffee1e02062 (0x0166d71b) srliw   x14, x13, 22
+core   0: 0x00007ffee1e02062 prv=3 v=0  x14 0x0000000000000012
+core   0: 0x00007ffee1e02072 (0x00b502bb) addw    x5, x10, x11
+core   0: 0x00007ffee1e02072 prv=3 v=0  x5  0x0000000000000018
+core   0: 0x00007ffee1e0207a (0x001f96bb) sllw    x13, x31, x1
+core   0: 0x00007ffee1e0207a prv=3 v=0  x13 0xffffffff80400000
+core   0: 0x00007ffee1e02096 (0x2c43061b) addiw   x12, x6, 708
+core   0: 0x00007ffee1e02096 prv=3 v=0  x12 0x00000000000002c4
+core   0: 0x00007ffee1e02092 (0x0035551b) srliw   x10, x10, 3
+core   0: 0x00007ffee1e02092 prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e020be (0x4112d31b) sraiw   x6, x5, 17
+core   0: 0x00007ffee1e020be prv=3 v=0  x6  0x0000000000000000
+core   0: 0x00007ffee1e020d8 (0x012f9f9b) slliw   x31, x31, 18
+core   0: 0x00007ffee1e020d8 prv=3 v=0  x31 0x0000000000040000
+core   0: 0x00007ffee1e020e6 (0x401086bb) subw    x13, x1, x1
+core   0: 0x00007ffee1e020e6 prv=3 v=0  x13 0x0000000000000000
+core   0: 0x00007ffee1e020f2 (0x00c382bb) addw    x5, x7, x12
+core   0: 0x00007ffee1e020f2 prv=3 v=0  x5  0x00000000000002c4
+core   0: 0x00007ffee1e020fa (0x40b5853b) subw    x10, x11, x11  
+core   0: 0x00007ffee1e020fa prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e0211a (0x00d6dc3b) srlw    x24, x13, x13
+core   0: 0x00007ffee1e0211a prv=3 v=0  x24 0x0000000000000000
+core   0: 0x00007ffee1e0211e (0x8340859b) addiw   x11, x1, -1996
+core   0: 0x00007ffee1e0211e prv=3 v=0  x11 0xffffffffc024f8c8
+core   0: 0x00007ffee1e02140 (0x41a5529b) sraiw   x5, x10, 26    
+core   0: 0x00007ffee1e02140 prv=3 v=0  x5  0x0000000000000000
+core   0: 0x00007ffee1e0214a (0x0190dfbb) srlw    x31, x1, x25
+core   0: 0x00007ffee1e0214a prv=3 v=0  x31 0xffffffffc0250094
+core   0: 0x00007ffee1e02154 (0x0012d5bb) srlw    x11, x5, x1
+core   0: 0x00007ffee1e02154 prv=3 v=0  x11 0x0000000000000000
+core   0: 0x00007ffee1e0215c (0x01ff1fbb) sllw    x31, x30, x31
+core   0: 0x00007ffee1e0215c prv=3 v=0  x31 0x0000000000000000
+core   0: 0x00007ffee1e02166 (0x00c5d53b) srlw    x10, x11, x12
+core   0: 0x00007ffee1e02166 prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e02178 (0x41f3531b) sraiw   x6, x6, 31
+core   0: 0x00007ffee1e02178 prv=3 v=0  x6  0x0000000000000000
+core   0: 0x00007ffee1e02192 (0x01cc5c9b) srliw   x25, x24, 28
+core   0: 0x00007ffee1e02192 prv=3 v=0  x25 0x0000000000000000
+core   0: 0x00007ffee1e02196 (0x40df86bb) subw    x13, x31, x13
+core   0: 0x00007ffee1e02196 prv=3 v=0  x13 0x0000000000000000
+core   0: 0x00007ffee1e021a8 (0x00809c1b) slliw   x24, x1, 8
+core   0: 0x00007ffee1e021a8 prv=3 v=0  x24 0x0000000025009400
+core   0: 0x00007ffee1e021b0 (0x0060d53b) srlw    x10, x1, x6
+core   0: 0x00007ffee1e021b0 prv=3 v=0  x10 0xffffffffc0250094
+core   0: 0x00007ffee1e021bc (0x4065d53b) sraw    x10, x11, x6
+core   0: 0x00007ffee1e021bc prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e021cc (0x00b3d53b) srlw    x10, x7, x11
+core   0: 0x00007ffee1e021cc prv=3 v=0  x10 0x0000000000000001
+core   0: 0x00007ffee1e021e2 (0x00c305bb) addw    x11, x6, x12   
+core   0: 0x00007ffee1e021e2 prv=3 v=0  x11 0x0000000000000138   
+core   0: 0x00007ffee1e021e6 (0x0073c633) xor     x12, x7, x7   
+core   0: 0x00007ffee1e021e6 prv=3 v=0  x12 0x0000000000000000
+core   0: 0x00007ffee1e021ea (0x558f3c93) sltiu   x25, x30, 1368
+core   0: 0x00007ffee1e021ea prv=3 v=0  x25 0x0000000000000001
+core   0: 0x00007ffee1e021ee (0x00b2d29b) srliw   x5, x5, 11     
+core   0: 0x00007ffee1e021ee prv=3 v=0  x5  0x0000000000000000   
+core   0: 0x00007ffee1e021f2 (0x00d71f33) sll     x30, x14, x13
+core   0: 0x00007ffee1e021f2 prv=3 v=0  x30 0xfffffffffffffe9d
+core   0: 0x00007ffee1e021f6 (0x01efbc33) sltu    x24, x31, x30
+core   0: 0x00007ffee1e021f6 prv=3 v=0  x24 0x0000000000000001
+core   0: 0x00007ffee1e021f2 (0x00d71f33) sll     x30, x14, x13  
+core   0: 0x00007ffee1e021f2 prv=3 v=0  x30 0xfffffffffffffe9d    
+core   0: 0x00007ffee1e021f6 (0x01efbc33) sltu    x24, x31, x30
+core   0: 0x00007ffee1e021f6 prv=3 v=0  x24 0x0000000000000001
+core   0: 0x00007ffee1e021fc (0x40508333) sub     x6, x1, x5
+core   0: 0x00007ffee1e021fc prv=3 v=0  x6  0x00000000c0250094
+core   0: 0x00007ffee1e02202 (0x00c5553b) srlw    x10, x10, x12 
+core   0: 0x00007ffee1e02202 prv=3 v=0  x10 0x000000000001804a
+core   0: 0x00007ffee1e02210 (0x41f6d73b) sraw    x14, x13, x31
+core   0: 0x00007ffee1e02210 prv=3 v=0  x14 0x0000000000000000
+core   0: 0x00007ffee1e02214 (0x5c1ce713) ori     x14, x25, 1473   
+core   0: 0x00007ffee1e02214 prv=3 v=0  x14 0x00000000000005c1     
+core   0: 0x00007ffee1e02218 (0x40ffd71b) sraiw   x14, x31, 15     
+core   0: 0x00007ffee1e02218 prv=3 v=0  x14 0x0000000000000000
+core   0: 0x00007ffee1e02228 (0x00cf969b) slliw   x13, x31, 12
+core   0: 0x00007ffee1e02228 prv=3 v=0  x13 0x0000000000458000
+core   0: 0x00007ffee1e02232 (0x84a52513) slti    x10, x10, -1974  
+core   0: 0x00007ffee1e02232 prv=3 v=0  x10 0x0000000000000000     
+core   0: 0x00007ffee1e02236 (0x01e7173b) sllw    x14, x14, x30   
+core   0: 0x00007ffee1e02236 prv=3 v=0  x14 0xffffffff80000000 
+core   0: 0x00007ffee1e02240 (0x0065063b) addw    x12, x10, x6
+core   0: 0x00007ffee1e02240 prv=3 v=0  x12 0xffffffffc0250094
+core   0: 0x00007ffee1e02248 (0x5b47069b) addiw   x13, x14, 1460
+core   0: 0x00007ffee1e02248 prv=3 v=0  x13 0xffffffff9fdf6468
+core   0: 0x00007ffee1e0224c (0x0015533b) srlw    x6, x10, x1
+core   0: 0x00007ffee1e0224c prv=3 v=0  x6  0x0000000000000000
+core   0: 0x00007ffee1e02250 (0x01e6d73b) srlw    x14, x13, x30
+core   0: 0x00007ffee1e02250 prv=3 v=0  x14 0x0000000000000004
+core   0: 0x00007ffee1e02258 (0x40c0d33b) sraw    x6, x1, x12
+core   0: 0x00007ffee1e02258 prv=3 v=0  x6  0xfffffffffffffc02
+core   0: 0x00007ffee1e02272 (0x00dfdc9b) srliw   x25, x31, 13
+core   0: 0x00007ffee1e02272 prv=3 v=0  x25 0x000000000007ffff
+core   0: 0x00007ffee1e0227e (0x40d08fbb) subw    x31, x1, x13
+core   0: 0x00007ffee1e0227e prv=3 v=0  x31 0x0000000020459c1d
+core   0: 0x00007ffee1e022ae (0x41375f1b) sraiw   x30, x14, 19
+core   0: 0x00007ffee1e022ae prv=3 v=0  x30 0xfffffffffffff804
+core   0: 0x00007ffee1e022d4 (0x00c653bb) srlw    x7, x12, x12
+core   0: 0x00007ffee1e022d4 prv=3 v=0  x7  0x0000000000000000
+core   0: 0x00007ffee1e022d8 (0x007f9c9b) slliw   x25, x31, 7
+core   0: 0x00007ffee1e022d8 prv=3 v=0  x25 0x0000000000000000
+core   0: 0x00007ffee1e022e2 (0x00b3053b) addw    x10, x6, x11
+core   0: 0x00007ffee1e022e2 prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e02304 (0x001502bb) addw    x5, x10, x1
+core   0: 0x00007ffee1e02304 prv=3 v=0  x5  0xffffffffc0250094
+core   0: 0x00007ffee1e02318 (0x00c515bb) sllw    x11, x10, x12
+core   0: 0x00007ffee1e02318 prv=3 v=0  x11 0x0000000000000000
+core   0: 0x00007ffee1e02320 (0xdc65059b) addiw   x11, x10, -570
+core   0: 0x00007ffee1e02320 prv=3 v=0  x11 0xfffffffffffffdc6
+core   0: 0x00007ffee1e02324 (0x0013933b) sllw    x6, x7, x1
+core   0: 0x00007ffee1e02324 prv=3 v=0  x6  0x0000000000000000
+core   0: 0x00007ffee1e0234c (0x00170fbb) addw    x31, x14, x1
+core   0: 0x00007ffee1e0234c prv=3 v=0  x31 0xffffffffc0250094
+core   0: 0x00007ffee1e0236a (0x95708c9b) addiw   x25, x1, -1705
+core   0: 0x00007ffee1e0236a prv=3 v=0  x25 0xffffffffc024f9eb
+core   0: 0x00007ffee1e0236e (0x00b3d61b) srliw   x12, x7, 11
+core   0: 0x00007ffee1e0236e prv=3 v=0  x12 0x0000000000000000
+core   0: 0x00007ffee1e02372 (0x00b3533b) srlw    x6, x6, x11
+core   0: 0x00007ffee1e02372 prv=3 v=0  x6  0xffffffffffffffef
+core   0: 0x00007ffee1e02382 (0x4180d51b) sraiw   x10, x1, 24
+core   0: 0x00007ffee1e02382 prv=3 v=0  x10 0xffffffffffffffc0
+core   0: 0x00007ffee1e02386 (0x0022931b) slliw   x6, x5, 2
+core   0: 0x00007ffee1e02386 prv=3 v=0  x6  0x0000000000000000
+core   0: 0x00007ffee1e02396 (0x007fdf9b) srliw   x31, x31, 7     
+core   0: 0x00007ffee1e02396 prv=3 v=0  x31 0x000000000000000e
+core   0: 0x00007ffee1e023aa (0x0022d51b) srliw   x10, x5, 2
+core   0: 0x00007ffee1e023aa prv=3 v=0  x10 0x0000000000000000
+core   0: 0x00007ffee1e023b6 (0x00c3d5bb) srlw    x11, x7, x12
+core   0: 0x00007ffee1e023b6 prv=3 v=0  x11 0xfffffffffffff89f
+core   0: 0x00007ffee1e023bc (0x008f9f9b) slliw   x31, x31, 8
+core   0: 0x00007ffee1e023bc prv=3 v=0  x31 0x0000000000000e00
+core   0: 0x00007ffee1e023d6 (0x418086bb) subw    x13, x1, x24
+core   0: 0x00007ffee1e023d6 prv=3 v=0  x13 0xffffffffc0250093
+core   0: 0x00007ffee1e023ee (0x007555bb) srlw    x11, x10, x7
+core   0: 0x00007ffee1e023ee prv=3 v=0  x11 0x0000000000000000
+core   0: 0x00007ffee1e023f6 (0x0065563b) srlw    x12, x10, x6
+core   0: 0x00007ffee1e023f6 prv=3 v=0  x12 0x0000000000000001
+core   0: 0x00007ffee1e020dc (0xd0268693) addi    x13, x13, -766  
+core   0: 0x00007ffee1e020dc prv=3 v=0  x13 0xfffffffffffffd02    
+core   0: 0x00007ffee1e02048 (0x0013f2b3) and     x5, x7, x1      
+core   0: 0x00007ffee1e02048 prv=3 v=0  x5  0x0000000000000000    
+core   0: 0x00007ffee1e0204e (0xb473a293) slti    x5, x7, -1209   
+core   0: 0x00007ffee1e0204e prv=3 v=0  x5  0x0000000000000000    
+core   0: 0x00007ffee1e02052 (0x71254293) xori    x5, x10, 1810   
+core   0: 0x00007ffee1e02052 prv=3 v=0  x5  0x0000000000000712    
+core   0: 0x00007ffee1e0205a (0xe85c4c93) xori    x25, x24, -379  
+core   0: 0x00007ffee1e0205a prv=3 v=0  x25 0xf6d814edfffffe85    
+core   0: 0x00007ffee1e0205e (0x0190dfbb) srlw    x31, x1, x25
+core   0: 0x00007ffee1e0205e prv=3 v=0  x31 0x0000000006012804
+core   0: 0x00007ffee1e02062 (0x0166d71b) srliw   x14, x13, 22
+core   0: 0x00007ffee1e02062 prv=3 v=0  x14 0x0000000000000012
+core   0: 0x00007ffee1e02066 (0x0016d6b3) srl     x13, x13, x1    
+core   0: 0x00007ffee1e02066 prv=3 v=0  x13 0x0000000000000049    
+core   0: 0x00007ffee1e0206e (0x00dc4cb3) xor     x25, x24, x13  
+core   0: 0x00007ffee1e0206e prv=3 v=0  x25 0x0927eb1200000000    
+core   0: 0x00007ffee1e02072 (0x00b502bb) addw    x5, x10, x11
+core   0: 0x00007ffee1e02072 prv=3 v=0  x5  0x0000000000000018
+core   0: 0x00007ffee1e02076 (0x001f4cb3) xor     x25, x30, x1    
+core   0: 0x00007ffee1e02076 prv=3 v=0  x25 0x00000000c0b102cc    
+core   0: 0x00007ffee1e0207a (0x001f96bb) sllw    x13, x31, x1
+core   0: 0x00007ffee1e0207a prv=3 v=0  x13 0xffffffff80400000
+core   0: 0x00007ffee1e0207e (0x00c582b3) add     x5, x11, x12    
+core   0: 0x00007ffee1e0207e prv=3 v=0  x5  0x0000000000000020    
+core   0: 0x00007ffee1e02082 (0x00b633b3) sltu    x7, x12, x11    
+core   0: 0x00007ffee1e02082 prv=3 v=0  x7  0x0000000000000001
+core   0: 0x0000100c (0x0182a283) lw      x5, 24(x5)
+core   0: 0x0000100c prv=3 v=0  x5  0x70000000 mem 0x00001018
+core   0: 0x70000018 (0x00052503) lw      x10, 0(x10)
+core   0: 0x70000018 prv=3 v=0  x10 0x70000204 mem 0x70000008
+core   0: 0x700000a0 (0x10452503) lw      x10, 260(x10)
+core   0: 0x700000a0 prv=3 v=0  x10 0x70000600 mem 0x700211a0
+core   0: 0x70000458 (0x0005a583) lw      x11, 0(x11)
+core   0: 0x70000458 prv=3 v=0  x11 0x40005040 mem 0x70000448
+core   0: 0x7000045c (0x0005a583) lw      x11, 0(x11)
+core   0: 0x7000045c prv=3 v=0  x11 0x00000002 mem 0x40005040
+core   0: 0x70014340 (0x00044583) lbu     x11, 0(x8)
+core   0: 0x70014340 prv=3 v=0  x11 0x00000054 mem 0x700158bc
+core   0: 0x4460061a (0xd84e5f83) lhu     x31, -636(x28)
+core   0: 0x4460061a prv=3 v=0  x31 0x00000000 mem 0x72a00584
+core   0: 0x446006c8 (0x71040283) lb      x5, 1808(x8)
+core   0: 0x446006c8 prv=3 v=0  x5  0x00000038 mem 0x461f6410
+core   0: 0x446007c8 (0x2fee5f03) lhu     x30, 766(x28)
+core   0: 0x446007c8 prv=3 v=0  x30 0x00000000 mem 0x72a00afe
+core   0: 0x446007cc (0x33cd1703) lh      x14, 828(x26)
+core   0: 0x446007cc prv=3 v=0  x14 0x00000000 mem 0x30600934
+core   0: 0x44600806 (0x29a7dc03) lhu     x24, 666(x15)
+core   0: 0x44600806 prv=3 v=0  x24 0x000083de mem 0x463f6a5a
+core   0: 0x4460091c (0x0c085303) lhu     x6, 192(x16)
+core   0: 0x4460091c prv=3 v=0  x6  0x00000000 mem 0x72d30d80
+core   0: 0x44600acc (0xa88a4583) lbu     x11, -1400(x20)
+core   0: 0x44600acc prv=3 v=0  x11 0x0000004b mem 0x45f93470
+core   0: 0x44600da0 (0x00044503) lbu     x10, 0(x8)
+core   0: 0x44600da0 prv=3 v=0  x10 0x00000000 mem 0x461f5d00
+core   0: 0x44600dbc (0xf40d8683) lb      x13, -192(x27)
+core   0: 0x44600dbc prv=3 v=0  x13 0x00000000 mem 0x5007d340
+core   0: 0x44600e18 (0x00098f83) lb      x31, 0(x19)
+core   0: 0x44600e18 prv=3 v=0  x31 0xffffffe4 mem 0x788100e8
+core   0: 0x44600d68 (0x930e1f83) lh      x31, -1744(x28)
+core   0: 0x44600d68 prv=3 v=0  x31 0x00000000 mem 0x72a00130
+core   0: 0x44600c44 (0x0ecd1683) lh      x13, 236(x26)
+core   0: 0x44600c44 prv=3 v=0  x13 0x00000000 mem 0x306006e4
+core   0: 0x44600b70 (0x3797a623) sw      x25, 1563(x15)
+core   0: 0x44600b70 prv=3 v=0  mem 0x463f6b2c 0x00005acf
+core   0: 0x44600ba2 (0xf5f7aa23) sw      x31, -1414(x15)
+core   0: 0x44600ba2 prv=3 v=0  mem 0x463f6714 0xffffc87f
+core   0: 0x44600d6c (0xf65a1823) sh      x5, -1925(x20)
+core   0: 0x44600d6c prv=3 v=0  mem 0x45f93210 0x0000
+core   0: 0x44600dfe (0x01979023) sh      x25, 0(x15)
+core   0: 0x44600dfe prv=3 v=0  mem 0x463f67c0 0x51e8
+        
